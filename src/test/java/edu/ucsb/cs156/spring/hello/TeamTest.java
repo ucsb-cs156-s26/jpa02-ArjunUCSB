@@ -64,7 +64,7 @@ public void hashCode_same_content_same_hashCode() {
 
     @Test
 public void hashCode_returns_expected_value() {
-    int expectedResult = 0; // placeholder - run once to get real value from error message
+    int expectedResult = -1226298695;
     assertEquals(expectedResult, team.hashCode());
 }
 
