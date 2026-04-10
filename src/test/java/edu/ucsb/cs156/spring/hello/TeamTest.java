@@ -56,4 +56,16 @@ public class TeamTest {
         assertEquals(false, team.equals(team2));
     }
 
+    @Test
+public void hashCode_same_content_same_hashCode() {
+    Team team2 = new Team("test-team");
+    assertEquals(team.hashCode(), team2.hashCode());
+}
+
+    @Test
+public void hashCode_returns_expected_value() {
+    int expectedResult = 0; // placeholder - run once to get real value from error message
+    assertEquals(expectedResult, team.hashCode());
+}
+
 }
