@@ -4,13 +4,13 @@
 
 
 
-Repo:https://github.com/ucsb-cs156-s26/jpa02-ArjunUCSB
+Repo: https://github.com/ucsb-cs156-s26/jpa02-ArjunUCSB
 
 
 
 
 
-Deployed at:https://jpa02-arjunucsb.dokku-12.cs.ucsb.edu
+Deployed at: https://jpa02-arjunucsb.dokku-12.cs.ucsb.edu
 
 
 # About this repo
